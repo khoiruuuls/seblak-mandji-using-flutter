@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "609029482385",
+    "project_id": "auth-seblak-mandji",
+    "storage_bucket": "auth-seblak-mandji.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609029482385:android:00b738faa2b201b26ddc30",
+        "android_client_info": {
+          "package_name": "com.example.seblak_mandji"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKkQVTSAd0aZDlPuv1gR8-Flkm0mWGxvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
